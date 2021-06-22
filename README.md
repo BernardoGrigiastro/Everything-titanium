@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Everything Titanium!
+## Requirements
+Fabric mod loader  1.17, 11.6, fabric api 1.17.
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
 ## License
 
